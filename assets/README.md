@@ -1,0 +1,1 @@
+Padded images for beter display in Metamask
